@@ -13,11 +13,6 @@ A deep learning project to classify **human facial expressions** (Happy, Sad, An
 
 ---
 
-## Download dataset from Kaggle:
-👉[ Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 🐍
